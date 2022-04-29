@@ -1,0 +1,80 @@
+Time: 0
+Waiting clients: (1,6,4); (2,6,4); (3,5,4); (4,5,3); 
+Queue 0: closed;
+Queue 1: closed;
+
+
+
+Time: 1
+Waiting clients: (1,6,4); (2,6,4); (3,5,4); (4,5,3); 
+Queue 0: closed;
+Queue 1: closed;
+
+
+
+Time: 2
+Waiting clients: (1,6,4); (2,6,4); (3,5,4); (4,5,3); 
+Queue 0: closed;
+Queue 1: closed;
+
+
+
+Time: 3
+Waiting clients: (1,6,4); (2,6,4); (3,5,4); (4,5,3); 
+Queue 0: closed;
+Queue 1: closed;
+
+
+
+Time: 4
+Waiting clients: (1,6,4); (2,6,4); (3,5,4); (4,5,3); 
+Queue 0: closed;
+Queue 1: closed;
+
+
+
+Time: 5
+Waiting clients: (1,6,4); (2,6,4); 
+Queue 0: (3,5,4); 
+Queue 1: (4,5,3); 
+
+
+
+Time: 6
+Waiting clients: 
+Queue 0: (3,5,4); (2,6,4); 
+Queue 1: (4,5,3); (1,6,4); 
+
+
+
+Time: 7
+Waiting clients: 
+Queue 0: (3,5,4); (2,6,4); 
+Queue 1: (4,5,3); (1,6,4); 
+
+
+
+Time: 8
+Waiting clients: 
+Queue 0: (3,5,4); (2,6,4); 
+Queue 1: (4,5,3); (1,6,4); 
+
+
+
+Time: 9
+Waiting clients: 
+Queue 0: (3,5,4); (2,6,4); 
+Queue 1: (4,5,3); (1,6,4); 
+
+
+
+Time: 10
+Waiting clients: 
+Queue 0: (3,5,4); (2,6,4); 
+Queue 1: (4,5,3); (1,6,4); 
+
+
+
+Average waiting time : 1.75
+Average service time : 3.75
+Peak hour : 6
